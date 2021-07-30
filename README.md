@@ -28,4 +28,4 @@
 
 
 
-<p><img align="center" width = "42%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulhassan786&" alt="gulhassan786" /></p>
+<p><img align="center" width = "43%" src="https://github-readme-streak-stats.herokuapp.com/?user=gulhassan786&" alt="gulhassan786" /></p>
