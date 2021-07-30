@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gul Hassan</h1>
 <h3 align="center">An IT student Passionate about AI and Web-development</h3>
 
-<p>&nbsp; <img align = "center" width = "37%" src="https://github-readme-stats.vercel.app/api?username=Gulhassan786&show_icons=true&theme=radical"/></p>
+<p>&nbsp; <img align = "center" width = "42%" src="https://github-readme-stats.vercel.app/api?username=Gulhassan786&show_icons=true&theme=radical"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulhassan786&label=Profile%20views&color=0e75b6&style=flat" alt="gulhassan786" /> </p>
 
