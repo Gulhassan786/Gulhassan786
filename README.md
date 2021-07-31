@@ -19,6 +19,10 @@
 
 - ⚡ Fun/Fact **I had participated in 3+ international Hackathons, In one Hackathon my team was top in runner-up teams**
 
+<p>
+<h2>My Article</h2>
+- Coding & Problem Solving skills (https://www.linkedin.com/pulse/coding-problem-solving-skills-gul-hassan)
+</p>
 <h2 aligen="center">Badges Awarded to me in Hackathons</h2>
 <p>
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.au.badgr.io/public/assertions/jR7jCeT0TKCyaPNXvKSE6g?identity__email=gulhassanh49%40gmail.com"><img width="120px" height="120px" src="https://media.au.badgr.com/uploads/badges/assertion-jR7jCeT0TKCyaPNXvKSE6g.png"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Hackmakers #DigitalDefence 2020: Participant Certificate</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:</strong>Dec 8, 2020</p>
