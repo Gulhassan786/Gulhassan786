@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gul Hassan</h1>
+<h1 align="center">Hi 👋, Myself Gul Hassan</h1>
 <h3 align="center"> An IT student Passionate about AI. Learning Data analysis, and problem-solving skills (solving problems at LeetCode), Freelancer @Fiverr, Student, Moderator and trainer @iCode Guru </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulhassan786&label=Profile%20views&color=0e75b6&style=flat" alt="gulhassan786" /> </p>
