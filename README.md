@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gul Hassan</h1>
-<h4 align="center"> An IT student Passionate about AI and Web-development. Learning Data analysis, and problem-solving skills (solving problems at LeetCode), Freelancer @Fiverr, Moderator, Learner and trainer @iCode Guru </h4>
+<h3 align="center"> An IT student Passionate about AI. Learning Data analysis, and problem-solving skills (solving problems at LeetCode), Freelancer @Fiverr, Student, Moderator and trainer @iCode Guru </h3>
 
 <p>&nbsp; <img align = "center" src="https://github-readme-stats.vercel.app/api?username=Gulhassan786&show_icons=true&theme=radical"/></p>
 
