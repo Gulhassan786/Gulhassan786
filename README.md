@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, Myself Gul Hassan</h1>
-<h3 align="center"> An IT student Passionate about AI. Learning Data analysis, and problem-solving skills (solving problems at LeetCode), Freelancer @Fiverr, Student, Moderator and trainer @iCode Guru </h3>
-
+ An IT student Passionate about AI. Learning Data analysis, and <strong>problem-solving skills</strong> (solving problems at LeetCode). I am a Freelancer at <strong>Fiverr</strong>, Student, Moderator and trainer at <strong>iCode Guru</strong> as well as<strong> writing article on Medium</strong>.
+ 
+##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulhassan786&label=Profile%20views&color=0e75b6&style=flat" alt="gulhassan786" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulhassan786" alt="gulhassan786" /></a> </p>
@@ -18,7 +19,12 @@
 - ⚡ Fun/Fact **I had participated in 3+ international Hackathons, In one Hackathon my team was top in runner-up teams**
 
 <p>
-<h2>My Article</h2>
+<h2>My Articles</h2>
+
+<h3> Medium </h3>
+- https://medium.com/@gulhassanh49/dictionary-in-python-db0f7c11534b
+
+<h3> On LinkedIn </h3>
 - Coding & Problem Solving skills (https://www.linkedin.com/pulse/coding-problem-solving-skills-gul-hassan)
 </p>
 <h2 aligen="center">Badges Awarded to me in Hackathons</h2>
