@@ -23,7 +23,7 @@
 
 <h3> Medium </h3>
 
-- https://medium.com/@gulhassanh49/dictionary-in-python-db0f7c11534b
+-	https://medium.com/@gulhassanh49
 
 <h3> On LinkedIn </h3>
 
