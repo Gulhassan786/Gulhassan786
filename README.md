@@ -53,6 +53,31 @@
  <p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: <a href = "https://api.au.badgr.io/public/assertions/rG5EIYesRgWM8hNduul-8g?embedVersion=1&amp;embedWidth=330&amp;embedHeight=186&amp;identity__email=gulhassanh49%40gmail.com" title="Badge: Hackmakers #Smartcities Hack 2021: Participant Certificate" target="_blank"></strong><span style="display: block;"> Gul Hassan</span> </a> </p></blockquote>
 </p>
 
+{
+  "type": "Assertion",
+  "id": "https://api.au.badgr.io/public/assertions/bVQgb_-PQ6e89WBDnAIH7A",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "u4KVdrSeBgzMmH7k",
+    "hashed": true,
+    "identity": "sha256$07f69d66f1b2e61526346335625fcae2be42a894901bdd2186a0b0fec6587a72"
+  },
+  "badge": "https://api.au.badgr.io/public/badges/jkNA6-yfS32f1gUP_cWbNQ",
+  "issuedOn": "2021-11-24T11:06:44.426Z",
+  "image": {
+    "id": "https://api.au.badgr.io/public/assertions/bVQgb_-PQ6e89WBDnAIH7A/image"
+  },
+  "revoked": false,
+  "extensions:recipientProfile": {
+    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
+    "type": [
+      "Extension",
+      "extensions:RecipientProfile"
+    ],
+    "name": "Gul Hassan"
+  }
+}
 
 <p align="right">
 <a href="https://linkedin.com/in/gul hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gul hassan" height="30" width="40" /></a>
