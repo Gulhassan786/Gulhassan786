@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/gul-hassan-7b188b202/**
 
-- ⚡ Fun/Fact **I had participated in 3+ international Hackathons, In one Hackathon my team was top in runner-up teams**
+- ⚡ Fun/Fact **I regularly participate in hackathons, I got runner-up prize in WorldInnovationDay hack'21**
 
 <p>
 <h2>My Articles</h2>
