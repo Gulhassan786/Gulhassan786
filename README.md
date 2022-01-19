@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Myself Gul Hassan</h1>
- An IT student Passionate about AI. Learning Data analysis, and <strong>problem-solving skills</strong> (solving problems at LeetCode). I am a Freelancer at <strong>Fiverr</strong>, Student, Moderator and trainer at <strong>iCode Guru</strong> as well as<strong> writing article on Medium</strong>.
+<h1 align="center">Hi! Myself Gul Hassan</h1>
+ I am IT student, working as a freelancer at Fiverr for more than a year. Also, I love to write articles on Medium. I regularly participate in hackathons and won many prizes, especially I got runner-up prize in WorldInnovationDay hack'21. I am an enthusiastic Data Analyst. Hence, I enjoy doing data analysis using Python and Google Sheets. Also, I am a keen learner of Artificial intelligence as well as love to solve coding problems from leetcode.
  
 ##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulhassan786&label=Profile%20views&color=0e75b6&style=flat" alt="gulhassan786" /> </p>
