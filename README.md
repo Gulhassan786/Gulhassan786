@@ -10,13 +10,11 @@
 
 - 👨‍💻 I am at LeetCode [https://leetcode.com/Gul_Hassan/](https://leetcode.com/Gul_Hassan/)
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **Python, Google data studio and Google spreadsheet**
 
 - 📫 How to reach me **https://www.linkedin.com/in/gul-hassan-7b188b202/**
-
-- ⚡ Fun/Fact **I regularly participate in hackathons, I got runner-up prize in WorldInnovationDay hack'21**
 
 <p>
 <h2>My Articles</h2>
