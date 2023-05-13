@@ -8,24 +8,20 @@
 
 - 🔭 I’m currently working on **Problem solving skills**
 
-- 👨‍💻 I am at LeetCode [https://leetcode.com/Gul_Hassan/](https://leetcode.com/Gul_Hassan/)
-
 - 🌱 I’m currently learning **AI**
 
-- 💬 Ask me about **Python, Google data studio and Google spreadsheet**
-
-- 📫 How to reach me **https://www.linkedin.com/in/gul-hassan-7b188b202/**
+- 💬 Ask me about **Python, AI and Google spreadsheet**
 
 <p>
-<h2>My Articles</h2>
+<h2>I am on</h2>
 
-<h3> Medium </h3>
-
--	https://medium.com/@gulhassanh49
-
-<h3> On LinkedIn </h3>
-
-- https://www.linkedin.com/pulse/coding-problem-solving-skills-gul-hassan
+<ul>
+ <li> <a href="https://www.linkedin.com/in/gul-hassan-7b188b202/">LinkedIn</a></li>
+  <li> <a href="https://www.kaggle.com/hassangul">Kaggle</a></li>
+ <li> <a href="https://medium.com/@gulhassanh49">Medium</a></li>
+ <li> <a href="https://leetcode.com/Gul_Hassan/">LeetCode</a></li>
+ 
+ </ul>
 
 </p>
 <h2 aligen="center">Badges Awarded to me in Hackathons</h2>
