@@ -1,5 +1,56 @@
-<h1 align="center">Hi! Myself Gul Hassan</h1>
- I am IT student, working as a freelancer at Fiverr for more than a year. Also, I love to write articles on Medium. I regularly participate in hackathons and won many prizes, especially I got runner-up prize in WorldInnovationDay hack'21. I am an enthusiastic Data Analyst. Hence, I enjoy doing data analysis using Python and Google Sheets. Also, I am a keen learner of Artificial intelligence as well as love to solve coding problems from leetcode to enhance my coding/problem solving skills.
+# Hi! Myself Gul Hassan
+
+As an enthusiastic IT student with a deep passion for **Machine Learning (ML)**, **Deep Learning (DL)**, **Natural Language Processing (NLP)**, and **Computer Vision**, I am dedicated to advancing my expertise in these cutting-edge fields. Over the past year, I have honed my skills through a range of practical experiences and academic pursuits, from participating in **international hackathons** to working on innovative projects that leverage ML and DL techniques. My commitment to these technologies is reflected in my successful completion of projects like **AI-driven bird voice recognition**, **sentiment analysis**, and **handwritten digit recognition**.
+
+With a solid foundation in **data analysis** and **programming**, I have not only applied these skills to real-world problems but also engaged in **teaching** and **training** roles to share my knowledge with others. My aim is to further my **research career** in ML, DL, NLP, and Computer Vision, exploring their potential to solve complex problems and drive technological advancements. I am excited about the future of these fields and eager to contribute to their growth through both research and practical applications.
+
+## Awards & Achievements
+
+- IELTS – 7 Bands
+- Winner of CS50x Puzzle Day organized by Harvard
+- Ranked #2 in Final Year Project (FYP) out of 100+ participants and 30+ projects
+- Runner-up at World Innovation Day Hackathon 2021
+- 3rd place finalist in FormulaAI Hackathon
+- Regional Ambassador for World Innovation Day Hackathon
+- Awarded a merit-based scholarship by the Higher Education Commission (HEC)
+- Recognized among the Top 20 students in my batch, awarded a laptop under the Prime Minister's Scheme
+
+
+## International Hackathons & Competitions
+
+- **World Innovation Day Hackathon (2nd place)** – Apr 2022 to May 2022
+  - **Tech Stack:** Numpy, Pandas, Matplotlib, Seaborn, Google Sheets
+  - Analyzed disaster data (floods, tornadoes, landslides), leveraging Google Sheets for data management.
+  - Created impactful reports revealing trends and the human cost of disasters, highlighting the number of people severely and partially affected.
+  - [Finalist (2nd prize)](https://au.badgr.com/public/assertions/5ERL7-jGTMenN76TLHYq6g?identity__email=gulhassanh49@gmail.com) || [Pitching Video](https://www.youtube.com/live/PekZczFhDi4?si=MWKkObYGxrnk0Oyy&t=1630)
+
+- **Formula AI Hackathon (3rd place)** – Apr 2022 to May 2022
+  - **Tech Stack:** Feature engineering, data imputation, text preprocessing
+  - Trained the ML model on historical race data to predict race outcomes based on weather, track characteristics, and past performance.
+  - [Finalist (3rd prize)](https://au.badgr.com/public/assertions/TeMHvYAKQTaUC5CP2eYBAQ) || [Pitching Video](https://www.youtube.com/watch?v=2yS0BoQS-3Q)
+
+- **World Innovation Day Hackathon (Runner-up)** – Apr 2021 to May 2021
+  - Created a model to predict whether food will be wasted or consumed properly based on various input factors.
+  - Evaluated model performance using F1 score, Cohen's Kappa, and confusion matrix.
+  - [Runner-ups](https://au.badgr.com/public/assertions/Nn9MpxPVRW2-JIJMm2N3vQ?identity__email=gulhassanh49@gmail.com) || [Pitching Video](https://www.youtube.com/live/EpF-33rksoU?si=fbBiE135TK9aM7jY&t=1525)
+
+- **Regional Ambassador in World Innovation Day Hackathon**
+  - Competed against 250+ applicants and secured a position in the top 20 ambassadors with Hackmaker.
+  - Consistently ranked among the top 3 of 20 regional ambassadors, surpassing MoU signing targets by 99%.
+  - Secured 6+ strategic partnerships between Hackmaker, universities, student groups, and companies.
+  - [Badge](https://drive.google.com/file/d/10PXvoPI2t7wQfN18Q0VT_nKr1Rac9fTN/view?usp=sharing)
+
+    
+<div>
+     <h2>Technical Skills</h2>
+    <ul>
+        <li><strong>Skills:</strong> Data analysis, Machine learning, Deep learning, Data structures, and algorithms</li>
+        <li><strong>Programming Languages:</strong> Python, C++, JavaScript, Flask, HTML, CSS</li>
+        <li><strong>Tools:</strong> Google Sheets, Git, GitHub, VS Code, Google Colab, Anaconda</li>
+        <li><strong>Operating Systems:</strong> Ubuntu, Windows, Kali Linux</li>
+    </ul>
+
+</div>
  
 ##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulhassan786&label=Profile%20views&color=0e75b6&style=flat" alt="gulhassan786" /> </p>
@@ -8,7 +59,7 @@
 
 - 🔭 I’m currently working on **Problem solving skills**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently working on **AI**
 
 - 💬 Ask me about **Python, AI and Google spreadsheet**
 
