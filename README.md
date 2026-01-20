@@ -1,19 +1,19 @@
 # Hi! Myself Gul Hassan
 
-As a fresh graduate in IT with a deep passion for **Machine Learning (ML)**, **Deep Learning (DL)**, **Natural Language Processing (NLP)**, and **Computer Vision**, I an dedicated to advancing my expertise in these cutting-edge fields. Over the past year, I have honed my skills through a range of practical experiences and academic pursuits, from participating in **international hackathons** to working on innovative projects that leverage ML and DL techniques. My commitment to these technologies is reflected in my successful completion of projects like **AI-driven bird voice recognition**, **sentiment analysis**, and **handwritten digit recognition**.
+As a fresh graduate in IT with a deep passion for **Machine Learning (ML)**, **Deep Learning (DL)**, **Natural Language Processing (NLP)**, and **Computer Vision**, I am dedicated to advancing my expertise in these cutting-edge fields. Over the past years, I have honed my skills through a range of practical experiences and academic pursuits, from participating in **international hackathons** to working on innovative projects that leverage ML and DL techniques. My commitment to these technologies is reflected in my successful completion of projects like **AI-driven bird voice recognition**, **sentiment analysis**, and **handwritten digit recognition**. Moreover, I am currently working as a graduate engineer in the industry.
 
 With a solid foundation in **data analysis** and **programming**, I have not only applied these skills to real-world problems but also engaged in **teaching** and **training** roles to share my knowledge with others. I aim to further my **research career** in ML, DL, NLP, and Computer Vision, exploring their potential to solve complex problems and drive technological advancements. I am excited about the future of these fields and eager to contribute to their growth through both research and practical applications.
 
 ## Awards & Achievements
 
 - IELTS – 7 Bands
-- Winner of CS50x Puzzle Day organized by Harvard
 - Ranked #2 in Final Year Project (FYP) out of 100+ participants and 30+ projects
 - Runner-up at World Innovation Day Hackathon 2021
 - 3rd place finalist in FormulaAI Hackathon
 - Regional Ambassador for World Innovation Day Hackathon
 - Awarded a merit-based scholarship by the Higher Education Commission (HEC)
 - Recognized among the Top 20 students in my batch, awarded a laptop under the Prime Minister's Scheme
+- Winner of CS50x Puzzle Day organized by Harvard
 
 
 ## International Hackathons & Competitions
